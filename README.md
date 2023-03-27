@@ -24,20 +24,22 @@ Program ini dibuat dengan tujuan untuk eksplorasi Java GUI yakni Apache NetBeans
 6) Menambahkan batasan bahwa input form tidak boleh ada yang kosong dan untuk update data tidak bisa melalui _double-click_ pada kolom.
 
 ## Dokumentasi Program saat Dijalankan
-1) Tampilan awal
-![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/Tampilan%20Awal%20JAR.png)
+### Tampilan awal
+  ![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/Tampilan%20Awal%20JAR.png)
 
-2) Menambahkan data
+### Menambahkan data
 ![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/before-addData.png)
 ![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/after-addData.png)
 
-3) Mengupdate data
+### Mengupdate data
 ![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/before-updateData.png)
 ![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/after-updateData.png)
 
-4) Menghapus data
+
+### Menghapus data
 ![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/before-deleteData.png)
 ![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/after-deleteData.png)
 
-5) Error Handling saat Input Form ada yang Kosong
+
+### Error Handling saat Input Form ada yang Kosong
 ![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/errorHandling-EmptyInputValue.png)
