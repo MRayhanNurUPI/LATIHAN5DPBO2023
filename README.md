@@ -28,9 +28,16 @@ Program ini dibuat dengan tujuan untuk eksplorasi Java GUI yakni Apache NetBeans
 ![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/Tampilan%20Awal%20JAR.png)
 
 2) Menambahkan data
+![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/before-addData.png)
+![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/after-addData.png)
 
 3) Mengupdate data
+![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/before-updateData.png)
+![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/after-updateData.png)
 
 4) Menghapus data
+![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/before-deleteData.png)
+![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/after-deleteData.png)
 
 5) Error Handling saat Input Form ada yang Kosong
+![alt text](https://github.com/MRayhanNurUPI/LATIHAN5DPBO2023/blob/main/Screenshot/errorHandling-EmptyInputValue.png)
